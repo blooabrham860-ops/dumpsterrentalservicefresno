@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Q1: How much does a dumpster rental cost near me?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A: Prices vary by size, location, and debris type but ADJ Dumpster Rental offers transparent, all-inclusive rates. A 10-yard starts at ~$349, 20-yard at ~$449, 30-yard at ~$549, and 40-yard at ~$649 (regional adjustments apply). No fuel surcharges, no admin fees. Get your exact local dumpster rental prices with a 60-second quote.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Q2: How long can I keep a rented dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A: Standard rental periods are 7–10 days, but we offer flexible options from 1-day same-day hauls to 30-day extended stays (small fee applies after day 10). Just let us know your timeline upfront.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Q3: What items are NOT allowed in roll-off dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A: Hazardous materials (paint, chemicals, asbestos), tires, batteries, propane tanks, and appliances with Freon are prohibited nationwide due to landfill regulations. We provide a clear “Do/Don’t” guide with every rental.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Q4: Do I need a permit for a dumpster on my property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A: If placing on private property (driveway, yard), usually *no*. If blocking a sidewalk, street, or public right-of-way, most cities require a permit which we can help you secure in under 24 hours in most markets.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Q5: How far in advance should I book a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A: For standard jobs, 1–2 days is ideal. For weekends or high-demand seasons (spring/fall), 3–4 days ensures availability. But for same-day emergency needs, call by 10 AM, we’ll do our best.</p>
+                <div class="callalooma mx-auto"><a href="tel:850-332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
